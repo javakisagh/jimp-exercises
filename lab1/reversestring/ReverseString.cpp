@@ -3,3 +3,7 @@
 //
 
 #include "ReverseString.h"
+
+std::string Reverse(const std::string &str) {
+  return "";
+}

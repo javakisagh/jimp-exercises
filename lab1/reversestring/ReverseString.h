@@ -5,6 +5,8 @@
 #ifndef JIMP_EXERCISES_REVERSESTRING_H
 #define JIMP_EXERCISES_REVERSESTRING_H
 
-std::string reverse(const std::string &str);
+#include <string>
+
+std::string Reverse(const std::string &str);
 
 #endif //JIMP_EXERCISES_REVERSESTRING_H
